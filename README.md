@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=1500&pause=1500&color=F7BA1D&center=true&width=435&lines=I'm+Jann+Jaspher;An+Aspiring+Web+Developer!+%F0%9F%91%8C)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=1500&pause=1500&color=F7BA1D&center=true&width=435&lines=I'm+Jann+Jaspher;An+Aspiring+Web+Developer!+%F0%9F%91%8C)](https://git.io/typing-svg" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--
 **thisbejann/thisbejann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
