@@ -19,8 +19,8 @@
 
 ## About me
 
-🎓 &nbsp;I'm currently a 4th year Computer Engineering Student
-🌱 &nbsp;Constantly learning about Web Development frameworks and libraries such as React.js, Next.js, Material UI, and Tailwind CSS
+🎓 &nbsp;I'm currently a 4th year Computer Engineering Student\
+🌱 &nbsp;Constantly learning about Web Development frameworks and libraries such as React.js, Next.js, Material UI, and Tailwind CSS\
 🎸 &nbsp;My hobbies are playing guitar, FPS shooters and MOBA e-sport titles.
 
 <!--
