@@ -17,7 +17,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-## About me
+<h1 align="center">
+  About Me 😉
+</h1>
+
 
 🎓 &nbsp;I'm currently a 4th year Computer Engineering Student\
 🌱 &nbsp;Constantly learning about Web Development frameworks and libraries such as React.js, Next.js, Material UI, and Tailwind CSS\
