@@ -8,10 +8,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.facebook.com/thisbejann/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jann-jaspher-santos-32808b24a/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-### Socials
-
-<p align="center"> <a href="https://www.facebook.com/thisbejann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thisbejann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 <!--
 **thisbejann/thisbejann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
